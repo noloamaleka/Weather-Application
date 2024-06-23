@@ -1,0 +1,31 @@
+.weather-component {
+    background-color: #2790eb; 
+    padding: 20px;
+    border-radius: 8px; 
+    max-width: 300px; 
+    margin: auto; 
+    margin-bottom: 20px; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+    text-align: center; 
+}
+
+.weather-component h2 {
+    font-size: 24px; 
+    margin-bottom: 10px; 
+}
+
+.weather-component p {
+    font-size: 18px; 
+    margin: 5px 0; 
+}
+
+
+.error-message {
+    color: red; 
+    font-weight: bold; 
+}
+
+
+.weather-component p.loading {
+    color: gray; 
+}
