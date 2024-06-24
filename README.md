@@ -1,7 +1,10 @@
 # Weather-Application
- A weather application developed using React. It integrates with the OpenWeather API to fetch and display the current weather conditions for a specified city. The application showcases the ability to handle API requests and present real-time data in a React environment.
 
-How to Run the Application:
+![Dashboard Image](https://github.com/noloamaleka/Weather-Application/blob/main/Screenshot%20(2729).png?raw=true)
+
+A weather application developed using React. It integrates with the OpenWeather API to fetch and display the current weather conditions for a specified city. The application showcases the ability to handle API requests and present real-time data in a React environment.
+
+## **How to Run the Application**:
 
 Clone the repository.
 Navigate to the project directory.
